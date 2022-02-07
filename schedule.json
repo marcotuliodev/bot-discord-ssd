@@ -1,0 +1,15 @@
+[
+  {
+      "date": "04/02/2022",
+      "events": [
+          {
+              "name": "Playing with Discord bot",
+              "hour": "14:00:00"
+          },
+          {
+              "name": "Game time",
+              "hour": "16:00:00"
+          }
+      ]
+  }
+]
